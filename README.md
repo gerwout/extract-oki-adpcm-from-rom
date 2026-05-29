@@ -1,4 +1,7 @@
 # Python script extract-oki-msm6376.py
+
+**⚠️ DEPRECATED: This codebase has been deprecated and superseded by [gerwout/sleic-iomoon](https://github.com/gerwout/sleic-iomoon). Please use that repository instead.**
+
 This Python script is able to extract sound samples from any rom file that is used in conjunction with the Oki MSM6376 speech synthesizer chip.
 The MSM6376 is capable of playing audio samples that are stored in a 4 bit ADPCM audio format that is also known as the IMA/OKI ADPCM audio format. 
 This specific audio chip is used quite a bit in gambling machines from the Maygay brand. It is also used in pinball machines from the Sleic brand. 
